@@ -9,4 +9,4 @@
 
 ### Utils ###
 * swagger: http://localhost:8080/swagger-ui/index.html
-* Kafdrop: 
+* Kafdrop: http://localhost:19000/
