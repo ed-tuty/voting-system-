@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suppressions PUBLIC
+  "-//Checkstyle//DTD SuppressionFilter Configuration 1.0//EN"
+  "https://checkstyle.org/dtds/suppressions_1_0.dtd">
+
+<suppressions>
+  <suppress checks="AbbreviationAsWordInName" files="."/>
+  <suppress checks="MissingJavadocMethod" files="."/>
+  <suppress checks="LineLengthCheck" files="."/>
+  <suppress checks="[a-zA-Z0-9]*" files=".*Query.java"/>
+</suppressions>
